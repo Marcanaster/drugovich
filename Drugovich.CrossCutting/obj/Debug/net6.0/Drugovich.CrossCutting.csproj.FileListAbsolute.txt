@@ -1,0 +1,15 @@
+D:\drugovich\Drugovich.CrossCutting\bin\Debug\net6.0\Drugovich.CrossCutting.deps.json
+D:\drugovich\Drugovich.CrossCutting\bin\Debug\net6.0\Drugovich.CrossCutting.dll
+D:\drugovich\Drugovich.CrossCutting\bin\Debug\net6.0\Drugovich.CrossCutting.pdb
+D:\drugovich\Drugovich.CrossCutting\bin\Debug\net6.0\Drugovich.Domain.dll
+D:\drugovich\Drugovich.CrossCutting\bin\Debug\net6.0\Drugovich.Domain.pdb
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\Drugovich.CrossCutting.csproj.AssemblyReference.cache
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\Drugovich.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\Drugovich.CrossCutting.AssemblyInfoInputs.cache
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\Drugovich.CrossCutting.AssemblyInfo.cs
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\Drugovich.CrossCutting.csproj.CoreCompileInputs.cache
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\Drugovich.CrossCutting.csproj.CopyComplete
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\Drugovich.CrossCutting.dll
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\refint\Drugovich.CrossCutting.dll
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\Drugovich.CrossCutting.pdb
+D:\drugovich\Drugovich.CrossCutting\obj\Debug\net6.0\ref\Drugovich.CrossCutting.dll
