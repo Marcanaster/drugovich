@@ -6,8 +6,8 @@ namespace Drugovich.Domain.Entities
     {
         public string Login { get; set; }
         public string Senha { get; set; }
-        public bool Ativo { get; set; }
-        public GerenteEntity Gerente { get; set; }
         public int GerenteRef { get; set; }
+        public GerenteEntity Gerente { get; set; }
+        public bool Ativo { get; set; }
     }
 }
